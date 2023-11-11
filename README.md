@@ -12,7 +12,7 @@
 
 <h2 align="center">Agradecimentos</h2>
 
-<p>Agradeçemos a oportunidade de recebe-los aqui no nosso projeto! Nesse trabalho entendemos alguns aspectos da sintaxe de uma linguagem de baixo nível (C). Agradeço pela proposta dada pelo professor para fazer este projeto que ajudou-nos a resolver os bugs do código. Agradeçemos também a faculdade FEI pela estrutura para realizarmos este projeto. Obrigado pela atenção e tenha um ótimo dia.</p>
+<p>Agradeçemos a oportunidade de recebe-los aqui no nosso projeto! Nesse trabalho entendemos alguns aspectos da sintaxe de uma linguagem muito utilizada no mercado (Python). Agradeço pela proposta dada pelo professor para fazer este projeto que ajudou-nos a resolver os bugs do código. Agradeçemos também ao Centro Universitário FEI pela estrutura para realizarmos este projeto. Obrigado pela atenção e tenha um ótimo dia.</p>
 
 <h1 align="center">Autores:</h1> <br>
 
