@@ -8,7 +8,7 @@
 
 **Como testar:** O projeto foi desenvolvido no replit, então, para funcionar corretamente e do jeito planejado é recomendável o uso do replit. <br>
 
-**Tecnologia utilzada:** O programa foi escrito em C. <br>
+**Tecnologia utilzada:** O programa foi escrito em Python. <br>
 
 <h2 align="center">Agradecimentos</h2>
 
