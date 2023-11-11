@@ -6,7 +6,7 @@
 
 **Status do projeto:** Concluido. <br>
 
-**Como testar:** O projeto foi desenvolvido no replit, então, para funcionar corretamente e do jeito planejado é recomendável o uso do replit. <br>
+**Como testar:** O projeto foi desenvolvido no vscode, logo, basta instalar o código e rodar em uma máquina que contenha Python. <br>
 
 **Tecnologia utilzada:** O programa foi escrito em Python. <br>
 
